@@ -1,0 +1,15 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.2.1/workctl-v0.2.1-windows-amd64.zip",
+            "bin": [
+                "workctl-v0.2.1-windows-amd64/workctl.exe"
+            ],
+            "hash": "47a70484d3630d1df0da8b569c79e2a2584d253a8d653bac9cec9efd633f831e"
+        }
+    },
+    "homepage": "https://github.com/cerebrai-app/go-cerebrai",
+    "license": "Apache-2.0",
+    "description": "workctl command line interface"
+}
