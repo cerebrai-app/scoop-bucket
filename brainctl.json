@@ -1,0 +1,15 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.2.1/brainctl-v0.2.1-windows-amd64.zip",
+            "bin": [
+                "brainctl-v0.2.1-windows-amd64/brainctl.exe"
+            ],
+            "hash": "912ffe000963bb85cd6bf1a80bf56b99fb2aec5a32e254a5ca7a8fae85661854"
+        }
+    },
+    "homepage": "https://github.com/cerebrai-app/go-cerebrai",
+    "license": "Apache-2.0",
+    "description": "brainctl command line interface"
+}
