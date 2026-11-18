@@ -1,6 +1,6 @@
 # scoop-bucket
 
-[Scoop](https://scoop.sh) manifests for the cerebrai command line tools on Windows (x64),
+[Scoop](https://scoop.sh) manifests for the cerebrai command line tools on Windows (x64 and arm64),
 built from [cerebrai-app/go-cerebrai](https://github.com/cerebrai-app/go-cerebrai).
 
 | Manifest | What it is |
