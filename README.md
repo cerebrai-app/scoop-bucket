@@ -52,8 +52,8 @@ the `go-release-publish` action in [cerebrai-app/actions](https://github.com/cer
 don't edit them by hand. Change `.goreleaser.yaml` in go-cerebrai instead.
 
 This repository's workflows call the shared actions in
-[cerebrai-app/actions](https://github.com/cerebrai-app/actions) and run on the
-`self-hosted` runners:
+[cerebrai-app/actions](https://github.com/cerebrai-app/actions) and run on GitHub's
+`ubuntu-latest` runners:
 
 | Workflow | What it does |
 | --- | --- |
