@@ -1,19 +1,19 @@
 {
-    "version": "0.6.0",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.6.0/workctl-v0.6.0-windows-amd64.zip",
+            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.7.0/workctl-v0.7.0-windows-amd64.zip",
             "bin": [
-                "workctl-v0.6.0-windows-amd64/workctl.exe"
+                "workctl-v0.7.0-windows-amd64/workctl.exe"
             ],
-            "hash": "341368276b8d4fb39409332ae6266a10472563cc3e82ec2a5bbbc0581a753122"
+            "hash": "b75fa6ce481f546880c0c0e73371fdb77c777cc1d601736476bada6e2c082455"
         },
         "arm64": {
-            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.6.0/workctl-v0.6.0-windows-arm64.zip",
+            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.7.0/workctl-v0.7.0-windows-arm64.zip",
             "bin": [
-                "workctl-v0.6.0-windows-arm64/workctl.exe"
+                "workctl-v0.7.0-windows-arm64/workctl.exe"
             ],
-            "hash": "916700af934815f441e8f636e69d81a4ca7821580ff9c92c0e23866840df842d"
+            "hash": "61a14a0eaf6d878c5ec311f058bb3c0ddeae6af287218c54ae03f4a5b3ac4751"
         }
     },
     "homepage": "https://github.com/cerebrai-app/go-cerebrai",
