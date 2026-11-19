@@ -1,12 +1,19 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.5.0/brainctl-v0.5.0-windows-amd64.zip",
+            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.6.0/brainctl-v0.6.0-windows-amd64.zip",
             "bin": [
-                "brainctl-v0.5.0-windows-amd64/brainctl.exe"
+                "brainctl-v0.6.0-windows-amd64/brainctl.exe"
             ],
-            "hash": "1909b1ca824ac0fd255c228bb185117d87a93f7500296ce640bb24c6d33be00d"
+            "hash": "242dd9c758966b330659b094c0090c139aa180f8eef87e2412897db0f13bfa71"
+        },
+        "arm64": {
+            "url": "https://github.com/cerebrai-app/go-cerebrai/releases/download/v0.6.0/brainctl-v0.6.0-windows-arm64.zip",
+            "bin": [
+                "brainctl-v0.6.0-windows-arm64/brainctl.exe"
+            ],
+            "hash": "83555c5ec7a1aa65c6dff1f388927611a3e0b634b4bed9f4c6c6e40a73a9c6b4"
         }
     },
     "homepage": "https://github.com/cerebrai-app/go-cerebrai",
